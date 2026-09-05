@@ -1,6 +1,8 @@
 # Course MPC Code
 Code examples and computational exercises for the graduate-level Model Predictive Control (MPC) course developed by Prof. Truong Nghiem.
 
+This is the public version / copy of the original example code developed within the course repository.
+
 ## Repository organization
 
 Each lecture directory contains the code and supporting material for the corresponding course topic. Examples may be provided in MATLAB, Python, or both.

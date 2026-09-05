@@ -1,0 +1,5 @@
+casadi>=3.7
+cvxpy>=1.6
+numpy>=1.26
+osqp>=1.0
+scipy>=1.11
