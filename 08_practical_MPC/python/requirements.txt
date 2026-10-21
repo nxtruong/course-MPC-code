@@ -1,0 +1,7 @@
+# Shared dependencies for tracking_mpc.py, tracking_mpc_disturbance.py,
+# and tracking_mpc_model_error.py.
+cvxpy>=1.6
+matplotlib>=3.7
+numpy>=1.26
+osqp>=0.6.7
+scipy>=1.11
